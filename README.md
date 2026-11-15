@@ -5,6 +5,7 @@
 
 ## Integrantes
 - Isabella Moreno (Integrador / Desarrollador)
+- Miguel Arias (Integrador / Desarrollador)
 
 ## Roles
 | Integrante      | Rol                        | Rama                                              |
